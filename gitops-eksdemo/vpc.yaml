@@ -10,4 +10,4 @@ spec:
     instanceTenancy: default
     region: us-east-1
   providerConfigRef:
-    name: aws-provider
+    name: aws-provider-config
